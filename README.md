@@ -1,7 +1,5 @@
 # keen-cli-mixpanel
 
-[![Build Status](https://travis-ci.org/keen/keen-cli-mixpanel.svg?branch=master)](https://travis-ci.org/keen/keen-cli-mixpanel)
-
 Mixpanel plugin for the [keen-cli](https://github.com/keen/keen-cli).
 
 ### Installation
