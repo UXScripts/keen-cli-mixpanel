@@ -1,12 +1,12 @@
 # keen-cli-mixpanel
 
-[![Build Status](https://travis-ci.org/keenlabs/keen-cli-mixpanel.svg?branch=master)](https://travis-ci.org/keenlabs/keen-cli-mixpanel)
+[![Build Status](https://travis-ci.org/keen/keen-cli-mixpanel.svg?branch=master)](https://travis-ci.org/keen/keen-cli-mixpanel)
 
-Mixpanel plugin for the [keen-cli](https://github.com/keenlabs/keen-cli).
+Mixpanel plugin for the [keen-cli](https://github.com/keen/keen-cli).
 
 ### Installation
 
-Install the keen-cli. You can find installation instructions [here](https://github.com/keenlabs/keen-cli#installation).
+Install the keen-cli. You can find installation instructions [here](https://github.com/keen/keen-cli#installation).
 
 Install the Mixpanel plugin:
 
@@ -25,7 +25,7 @@ Commands:
 
 ### Environment Configuration
 
-The same rules that apply for `keen-cli` [environment variables](https://github.com/keenlabs/keen-cli#environment-configuration) apply to the Mixpanel plugin, with the addition of Mixpanel specific API keys.
+The same rules that apply for `keen-cli` [environment variables](https://github.com/keen/keen-cli#environment-configuration) apply to the Mixpanel plugin, with the addition of Mixpanel specific API keys.
 
 Add the following environment variables to your `.env` file in addition to your KEEN variables:
 
